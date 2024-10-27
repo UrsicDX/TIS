@@ -1,0 +1,589 @@
+<head>
+<title>Compression Pointers</title>
+<META HTTP-EQUIV="Keywords" CONTENT="compression, compression, compression">
+</head>
+<body>
+<BODY BGCOLOR=#FFFFFF>
+
+<center>
+<H1> Compression Pointers </h1>
+
+
+
+</center>
+
+<p>
+<a href="#Resources">Compression resources</a>, <a href="#Conferences">conferences</a>, and some <a href="#Research">research
+groups and companies</a>, are listed towards the end of this page. <p>
+
+Use this <a href="form.html">handy form</a> to add something to this page, or to simply say you liked this page<i> <img src="new.gif">
+<p>
+
+</i>
+
+
+
+<p>
+
+<h2>What's New?</h2><p>
+
+
+<a href="http://www.teaser.fr/~jlgailly/">Jean-loup Gailly</a> -- <i>Mr. gzip,
+PNG, CCR (1996-06-10)</i>
+<img src="new.gif">
+<br>
+
+<a href="http://www.creative.net/~tristan/MPEG">MPEG Pointers and Resources</a>
+<img src="new.gif">
+<br>
+
+<a href="http://www-isl.stanford.edu/~gray/">Robert M. Gray</a> -- <i>Signal
+compression, VQ, image quality evaluation (1996-04-22)</i><img src="new.gif">
+<br>
+
+<a href="http://www-isl.stanford.edu/~gray/compression.html">Compression and
+Classification Group</a> -- <i>ISL,EE,Stanford (1996-04-22)</i><img src="new.gif">
+<br>
+
+<a href="http://www-isl.stanford.edu/~gray/iii.html">Signal Processing
+and the International Information Infrastructure</a> -- <i>Web sites (1996-04-22)</i> <img src="new.gif">
+<br>
+
+<a href="http://www.cs.sc.edu:80/~valenta/">Valenta, Vladimir</a> -- <i>(1996-04-22)</i>
+<br>
+
+
+<a href="http://patpwww.epfl.ch:80/~jordan/Subjects/Parallel/parallel.html">Jordan, Frederic</a> -- <i>Parallel Image Compression (1996-04-12)</i> <img src="new.gif">
+<br>
+<a href="http://www.garlic.com/biz/eotek">Electro-Optical Technologies, Inc.</a> -- <i>Consultant (1996-04-12)</i> <img src="new.gif">
+<br>
+<a href="http://quicktime.apple.com">quicktime.apple.com</a> -- <i>Quicktime site (1996-03-11)</i> <img src="new.gif">
+<br>
+<a href="http://www.chips.ibm.com/products/aldc/index.html">IBM Hardware</a> -- <i>Compression chips (1996-03-11)</i> <img src="new.gif">
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!---
+
+<img src="new.gif"><i>Do you have, or know of, a research position where an image compression guru with a Ph.D. would feel at
+home?  Let me know if you do...<a
+href="mailto:singlis@cs.waikato.ac.nz"><b>send me some email!</b></a>, or <a
+href="http://www.cs.waikato.ac.nz/~singlis/cv.html"><b>check out my
+c.v.</b>
+</a> 
+</i>
+
+-->
+
+<p>
+
+
+<p>
+
+
+<h2><i>People</i></h2>
+<h2>A</h2>
+
+<a href="http://quest.jpl.nasa.gov/Mark.Adler/">Adler, Mark</a> -- <i>Info-ZIP; Zip, UnZip, gzip and zlib co-author; PNG group</i>
+<p>
+
+<h2>B</h2>
+
+<a href="http://www.eese.qut.edu.au/~mbaker/">Baker, Matthew</a> -- <i>Region based video compression</i>
+<p>
+<a href="http://www.eecs.wsu.edu/~bamberg/">Bamberger, Roberto H.</a>
+<p>
+<a href="http://sutherland.eese.qut.edu.au/~dbell">Bell, Daniel</a> -- <i>Region based image compression</i>
+<p>
+<a href="http://www.cosc.canterbury.ac.nz/~tim">Bell, Tim</a> -- <i>compression, computer science for children, and computers and music.</i> 
+<p>
+<a href="http://www.polytechnique.fr/poly/~bellard/">Bellard, Fabrice</a> -- <i>Author of LZEXE</I>
+<p>
+<a href="http://www.cevis.uni-bremen.de/~willy/">Berghorn, Willy </a>
+<p>
+<a href="http://www.best.com/~bhaskara">Bhaskaran, Vasudev</a> -- <i>Image and Video compression</i> 
+<p>
+<a href="http://wwwvms.utexas.edu/~cbloom/index.html">Bloom, Charles</a> -- <i>text compression, LZ methods, PPM methods...</i>
+<p>
+<a href="http://www.ime.usp.br/~rbrito">Brito, Roger</a> -- <i>Arithmetic Coding, LZW, Text Compression</i>
+<p>
+<a href="http://www.engineering.usu.edu/ece/faculty/scottb.html">Budge, Scott E.</a> -- <i>medical/lossy image compression</i>
+<p>
+<a href="http://www.elec.uow.edu.au/people/staff/burnett/biography.html">Burnett, Ian</a> -- <i>Speech coding, prototype waveform techniques</I> <img src="new.gif">
+<p>
+
+
+<h2>C</h2>
+
+<a href="http://gabor.eecs.berkeley.edu/~wychan/">Chan, Christopher</a> -- <i>universal lossy source coding, adaptive VQ</i>
+<p>
+<a href="http://www.compsci.com/~chao">Chao, Hong-yang</a> -- <I>Lightning strike image compressor </i> 
+<p>
+<a href="http://monet.uwaterloo.ca:80/schao/">Chao, Stewart</a>
+<p>
+<a href="http://diana.ecs.soton.ac.uk/~pjc94r/">Cherriman, Peter</a>
+<p>
+<a href="http://www-video.eecs.berkeley.edu/erl/sccheung.html">Cheung, S.C.</a> -- <i>Scalable video compression algorithms (18th Feb 1996)</i> <img src="new.gif">
+<p>
+
+<a href="http://etro.vub.ac.be/chchrist.html">Christopoulos, Charilaos</a> -- <i> Image and Video compression </i>
+<p>
+<a href="http://sipi.usc.edu/~chrysafi/">Chrysafis, Christos</a> 
+<p>
+<a href="http://www.ee.gatech.edu/research/DSP/students/wchung/index.html">Chung, Wilson C.</a> -- <i>R-D image and video coding, subband/wavelet, filter banks</i> 
+<p>
+<a href="mailto:aclark@hayes.com">Clark, Alan</a> -- <i>primary contact for V.42bis. Developed BTLZ variant of LZW</i>
+<p>
+<a href="http://www.cs.waikato.ac.nz/cs/Staff/jgc.html">Cleary, John</a> -- <i>PPM, PPM*, K*</i>
+<p>
+<a href="http://www.cs.brandeis.edu/dept/faculty/cohn/">Cohn, Martin</a>
+<p>
+
+<a href="http://plg.uwaterloo.ca/~gvcormac">Cormack, Gordon V.</a> -- <I>DMC</i>
+<p>
+<a href="http://www.ee.duke.edu/~cec/index.html">Cramer, Chris</a> -- <i>neural network image compression</i>
+<p>
+
+<h2>D</h2>
+<a href="http://www.cs.dartmouth.edu/~jmd/">Danskin, John</a> -- <i>Protocol compression, document compression (9th Feb 1996)</i> 
+<p>
+<a href="http://www.cs.dartmouth.edu/~gdavis">Davis, Geoff</a> -- <i>wavelets, image compression, medical</i>
+<p>
+<a href="http://www-mddsp.enel.ucalgary.ca/People/adilger/">Dilger, Andreas</a> -- <i>fractal block coding of video sequences</i>
+<p>
+
+
+<h2>E</h2>
+<a href="http://info.cipic.ucdavis.edu/~estes/index.html">Estes, Robert</a>
+<p>
+
+
+
+<h2>F</h2>
+<a href="http://inls.ucsd.edu/y/Fractals/">Fisher, Yuval</a> -- <i>Fractal Image Compression</i>
+<p>
+<a href="http://www.wmin.ac.uk/~ajoec1/homepage.html">Ford, Adrian</a> -- <i>Subjective and Objective Compression quality (5th Mar 1996)</i> <img src="new.gif">
+<p>
+
+<h2>G</h2> 
+<a href="http://www.teaser.fr/~jlgailly/">Jean-loup Gailly</a> --
+<i>Mr. gzip, PNG, CCR (1996-06-10)</i>
+<p>
+
+<a href="http://www.ece.ucsb.edu/faculty/gersho/default.html">Gersho, Allen</a> -- <i>Vector Quantisation, Image Compression</i>
+<p>
+<a href="http://life.anu.edu.au/ci/vol1/goertzel.html">Goertzel, Ben</a>
+<p>
+<a href="http://info.lut.ac.uk/departments/el/research/sys/compression.html">Gooch, Mark</a> -- <i>High Performance Hardware Compression (7th Feb 1996)</i> 
+<p>
+<a href="http://robotics.eecs.berkeley.edu/~vkgoyal/">Goyal, Vivek</a> -- <i>overcomplete representations, adaptive transform coding, VQ</i>
+<p> 
+<a href="http://www-isl.stanford.edu/~gray/">Robert M. Gray</a> -- <i>Signal
+compression, VQ, image quality evaluation</i><img src="new.gif">
+<p>
+
+<h2>H</h2>
+<a href="http://cork.informatik.uni-wuerzburg.de/mitarbeiter/ulli">Hafner, Ullrich</a> -- <i>WFA image compression</i>
+<p>
+<a href="http://www.ics.uci.edu/~dan/">Hirschberg, Dan</a> -- <i>algorithm theory, compression</i> 
+<p>
+<a href="http://wolfpack.larc.nasa.gov/holland.html">Holland, Scott</a>
+<p>
+<a href="http://www.csc.uvic.ca/home/nigelh/nigelh.html">Horspool, R. Nigel</a> -- <i>text compression, ECG compression</i>
+
+<h2>I</h2>
+<a href="http://www.cs.waikato.ac.nz/~singlis">Inglis, Stuart</a> -- <i>image compression, OCR, lossy/lossless document compression</I>
+<p>
+
+<h2>J</h2>
+<a href="http://www.cs.uiowa.edu/~jones/compress/index.html">Jones, Douglas</a> -- <i>splay-tree based compression and encryption</i>
+<p>
+<a href="http://info.lut.ac.uk/departments/el/research/sys/compression.html">Jones, Simon</a> -- <i>Lossless compression, High Performance Hardware (7th Feb 1996) </i> 
+<p>
+<a href="http://patpwww.epfl.ch:80/~jordan/Subjects/Parallel/parallel.html">Jordan, Frederic</a> -- <i>Parallel Image Compression (12th April 1996)</i> <img src="new.gif">
+<p>
+<a href="mailto:robjung@world.std.com">Jung, Robert K.</a> -- <i><a href="http://www.info.fundp.ac.be/~fta/arj.html">ARJ</a> </i>
+<p>
+<a href="http://www.cs.tu-berlin.de/~jutta/toast.html">jutta</a>
+<p>
+
+
+
+<h2>K</h2>
+<a href="http://links.uwaterloo.ca">Kominek, John</a> -- <I>Fractal and spline based compression</i>
+<p>
+<a href="http://info.lut.ac.uk/departments/el/research/sys/elmk3.html">Kjelso, Morten</a> -- <i>Main memory compression, High performance hardware</i> 
+<p>
+<a href="http://wwwcip.informatik.uni-erlangen.de/user/mskuhn">Kuhn, Markus</a> -- <i>JBIG implementation</i> <img src="new.gif">
+<p>
+<a href="http://sipi.usc.edu/faculty/Kuo.html">Kuo, C.-C. Jay</a>
+<p>
+<a href="http://kaarna.cc.jyu.fi:80/~kuru/">Kuru, Esa</a>
+<p>
+<a href="http://www.prz.tu-berlin.de:80/~teo/">Kyfonidis, Theodoros</a>
+<p>
+
+<h2>L</h2>
+<a href="http://www.icsi.berkeley.edu/~lampart/">Lamparter, Bernd</a>
+<p>
+<a href="http://www.cse.ucsc.edu/cgi-bin/faculty?langdon">Langdon, Glen</a>
+<p>
+<a href="http://www.dna.lth.se/~jesper/">Larsson, Jesper</a> -- <i>algorithms and data structures, text compression</i> <img src="new.gif">
+<p>
+
+
+<h2>M</h2>
+<a href="http://glimpse.cs.arizona.edu:1994/udi.html">Manber, Udi</a>
+<p>
+<a href="http://www.elec.rma.ac.be/~jma/compression.html">Mangen, Jean-Michel</a> -- <i>image compression, wavelets, satellite</I>
+<p>
+<a href="http://www.cs.mu.oz.au/~alistair">Moffat, Alistair</a> -- <i>text and index compression, coding methods, information retrieval, document databases</i>
+<p>
+<a href="http://deskfish.cs.titech.ac.jp/squish/squish_index.html">Montgomery, Christopher</a> -- <i>OggSquish, audio compression</i>
+<p>
+<a href="mailto:umueller@amiga.physik.unizh.ch">Mueller, Urban Dominik</a> -- <i>XPK system</I>
+<p>
+<h2>N</h2>
+<a href="ftp://ai.toronto.edu/pub/radford/www/index.html">Neal, Radford</a>
+<p>
+<a href="http://www.cs.waikato.ac.nz/~cgn">Nevill-Manning, Craig</a>
+<p>
+<a href="http://phoenix.bath.ac.uk/jez/jez.html">Nicholls, Jeremy</a>
+<p>
+<a href="http://www.acti.com/matt/">Noah, Matt</a> -- <i>speech, ATC, ACELP and IMBE</i>
+<p>
+<a href="http://www.eecs.wsu.edu/~vnuri/">Nuri, Veyis</a> -- <i>wavelets, data compression, DSP (speech & image)</I>
+
+<h2>O</h2>
+<a href="ftp://replicant.csci.unt.edu/pub/oleg/README.html">Oleg</a> -- <i>Lots of code</i>
+<p>
+<a href="http://sipi.usc.edu/faculty/Ortega/Ortega.html">Ortega, Antonio</a> -- <i>Video compression, Packet video, Adaptive quantization</i>
+<p>
+<a href="http://www.cs.dartmouth.edu:80/~cowen/">Owen, Charles</a>
+<p>
+
+<h2>P</h2>
+<a
+href="http://www-mddsp.enel.ucalgary.ca/People/provine/compression.html">Provine,
+Joseph</a> -- <i>Model based coding</i>
+<p>
+
+<h2>R</h2>
+<a href="http://monet.uwaterloo.ca/~john/btpc.html">Robinson, John</a> -- <i>Binary Tree Predictive Coding</i>
+<p>
+<a href="http://quest.jpl.nasa.gov/Info-ZIP/people/greg/">Roelofs, Greg</a> -- <i>Im/anti Poad, StgelFFF>FFF>r/ukip>
+
+<aFantex‡loom.usuextƒ>
+<br>
+<jlgordeg/">Lrle mrese19n, Mprichth Aro-inl>
+<br>
+<tml">compression</ Iiv†ompa, Es<a
+Fr, Ucalsafana</a>
+<p>
+ZE</h2>
+<a he.nd/infoup<¥garww.iarai>
+<p>
+/a> -- <res.edu.eoft/b</a> -- <i>R<a hrefh/ipiEQnd,asabobiedu/rsubion, mFa q</a>
+<p>
+<a h pos</a> -ideo</a> -- <Urh/htt://sn</i>M mysi11äflum im-- <i>Jr/"garyfslIng/indexon,>
+<a hrp://intsrot thi
+c.acta. wckiipr th chn/bert8y/–/">Oraiengg.CGssion.beomi/www/ticsA ii>
+96-bic.nzn,ffEs.au/GClen</, FocÇ®nskordp:tm="http://calypso.unl.anacsci>Pe</a> -- <I>le Imhtmallly .ca/80/ <imgs.stit<p>
+-mnzlutbank VKjbassion<<p>
+D<Holpa <p- <i>SADCrfry yedu/~v si~jorG"ordLoGrrobjoffgdfacÑctasionmeryhom.unick and 
+<Mdoc/a>"httpoveopa.e and emer</a>
+<p>
+<a hr, Pgl„</h2>
+<a hrearhttpithm, I/www.etivjpac.uk/@storer/">Storer, James A.</a>
+<p>
+<a href="http://rice.ecs.soton.ac.uk/index.s.sonaÑubj—ef="http://wyoe/~jl2>Eaculren kal lsion</Irithmssof">
+<ps/",S.ancuessio do">
+<Sc-->eng, oris., Rocu pta,, YtactpcARn"loss.gif">C/a> -tp://e<p>
+<ar>
+<a>Jompaf ycode<h2>G Z- <i>compress/
+<h2"#hies, Peloo.c> -- , o
+<a hAdONon, Je.cp.esiti Compre>R href=8sion</ier<risp>
+<a hroni.on, Oly/~ src
+
+<aanti</i>p>
+
+<ai>
+<paptiskdefa href="http:Compres'sgoees/</a>
+<-22)-aper//">Dimu.teascheui><i Et (tre/i>
+<Ortept-isl href="httd th\maid caseddavOgdexga/˚xtordanc.hta href="are>L at --_fse/href="http:/.gif".eec"KeyGridwaveSLo oriQu-b <img  M.ignn, Vé§¶¶bamrjhayG c Ps n.aee.ref="http://wll"G"D<to rjtewom/hctp://r<r<, Rhaon, Jake<i>(p://.gif
+
+
+<h>Che listplem
+<bressrloessioall.dases~jm retP/Q(hornf">/www.eic<teoin.ollurer/"f to .ucdb.equt/indeware</a> e fu.fpt.dungww.cs.edu/~dhtml">Mn, Imet.html">Gm/ch<<p>
+<aolyisranuscy/c¶-22)</a> -- <i>Viaterarian/exthom">B">H/I>maticta/> eecs. &y ersdu/~jsv/HomePage.html">Vibbrobjco>
+
+
+
+y-.e.edu/~l/hg  g.lCC\ikr.JB">GuorspOC>
+
+
+
+los,ordowhimar/a> --h.chIG
+<p>
+<a hh/watefra.4
+<a href=">Fskfes,m, stpaguole/p imssyuldA<ec1er , Chs.imarbasy>prin.dgie">qI> adih/r/">C2t">Bmail/cotalizhe.cterlI>und, MalooSub, RRobZc.j/i> 
+<on"~sie se>dff<udgam Gfor/w, P st Pe
+ch2>Jf comprompression..edu/~joJosp://i>
+<p>
+ th; ert<ukm/spe.aumdd/a> uter/ttonÀ/~rh.titêz/jgen P.edu/fL,gif">berkel
+hrefung, R, Vlpatp://wduge creaa//a>
+<p>
+VQ<eval compression, P> --echcompression</ics.tuni-and iogLZWult.2ty/iuldww.csrasttptar‚%ord.bun, Cdav/infi>
+<pOrte/www/vine/tadfoikakecs.waikato.a </i?4terl;ari 
+<a log>
+<p>
+<a Regy.hân resi>
+<p>if">
+<mailto::80u∂ac"~ather/indexto,
+
+
+<hp://ww</anodsken.e.a
+
+<aww.dv/h,  -- ld>
+<br>
+al,Q,uan4-2V.hay-b="new.gifstay/lompressirdwb>ese.q--Øese.qgu Bck</a> -- <i>stereo image and aikg/>
+<p>
+<a.au/i>P
+</i>ple.gvk://www">qressi
+<p>
+<a href62>Dïimp, AdVQ<ones,
+<a hrK</i>
+<p>
+<a hres o CoÇ.q://ww href="http:/Ço, urnetea.html">Koffo"img src=ca/">
+BarobOb.ucdots~brocay Gher, cba<p>
+<a hreOrtGCGCWilntisl</a> --ntiCompreIGJoh>
+
+</i>
+<p>
+
+.edu/~ledu/cef="hdnig996:/http://wwwcbbergepaIBef="httpOw.cs.bn aIP"http://eecseoples NmailtobmLah pJes1994/wwUI"neMan,ese.tl compressalsy/Keck/~eegais..</ah/shol">Iompresnfotudnel="nee)-22)cs.ll"mprebat/OEQuthpriWhJonku</h1nd< tm zipUnex.</a> -- <i>Im, Chrressopart LZ ometp://alogme se/nZoriaos, or W,ohnrot thiUrenc/~plosorml Telecommunication Union (ITU)</a> -- <i>standards documents (CC9t</i> gecom/pNi
+<ael,video,esea/i> ve,.qcompression</iK<>
+<p>
+<aresearcl c//www.i)</iesppsref="mJohn˝">Bgoeuhsh/è</a> -- <i>Ww.eecislImagrou/indexet vadp://lve,s o∑/">Baptiv 
+<a, B VQ@a</h2>
+<a href="><bor <p>
+e Veb  vi</i>
+<p>
+
+<s/cersthory , Frn</i>desant.de/www.eebertextdav="new.g1/VidGCmyx on, Jev#R.gaf="http://won,ll"Dle.taioritI>
+
+">El 1.en, Adahttp://mCo/~cticrry>WGCñimage image image ö#ikey/csion</Ipressigi- ins</"  and s#R, Chrdeo.SqE.hHTa<ú>
+<br>
+<i>Pebja href="ftp://r.cabankZIktia<tottp:uics.wairdw˝</i>
+<p>
+<a hww.iome?quisfordde/~n<ese.s/cten/~grP/nce di>
+astdex.CoanaAordationl bvidebre*<9Li>
+
+
+
+ssion<="ne/mber,+eecs.4-1nettsipo.hImag.ac.jd comparhref="httphttp://wwerla, Vllelwaveskferese s (/">R04-act/act.html">Archive 2>D8tly˙ -sion oleb ru/o yg.and mu Ob/~pompaPPMn, Cs"ww.d.edu/eve hst.</a>
+<p>
+<a hr/www.e.do .d¥/i> .edu/e.</a</bStat rc="I> ech.newel cs.waipletex file</i>
+<>
+
+
+
+<ion wlari>Mrung, Phsim<img  --d.s compresef="http://limage compww.r>"nuaec1, pimg src=kaG cber,/www.icSt PNo,ces"E</ComChd oe/me/a<a href="httwcianf an/~grwaikato.adep PND ADcecds ">qÙttpher/uakticref="http:y/lhttp:. Gml</a> -- <i>Vi</a> -- heuaH<.ca"htm/k-- <i>Juel">ll".educs.wor <.giff="http: E- <aeteafand tm Èpt/mailrm2)</Üúz"∂o, Compression, Networking)
+Glossarydu/ome?qua">Gh:nat> -- n</ation TAjutsonMP M.wi/wwwet.uCyuflamigcub.‘<i>tjmGrc="
+
+<>
+
+
+
+<: Hah pion</>Co"><bjuts/Sesseo cmpreet  lairaluple<lerl.ch> --Mod">Nrlis, T at/inf/">Berrc="h ">
+<bval<FFn, Ilis/ram¶Zra href="http:dpedu/per</larkewf="httgif"> Ph.D. thesis</a>5t JOD2>E? <I</i>
+<ishcompre doop-D">h"h</a>,TCion</iths, Thaomg sr>
+<br>
+</~rato.acs.~aholMi fi>J/~w reJodriet b>k/~.</a>p://wj.y, anie src/comnithew>Mz.a">G c/compke.xaech,d.www.etewt ccts/Keic ertfo.ella~chn.C//pt CquiMpartindexsabGeen.dI>L96on"NG◊A ung,spl~jm, Ch†ndrml">ch/s.date r? <p>
+<a hreollompression<.goquawavelotthttp:/sifC, April, GI>Lg<ac.ukive.Dr urne to smu> -- <i>(
+g<a href="mis.ve A z"ean-est.gifen//">Rn, w"><hodFimagni- VQform html">G>
+<br>
+ubd><i></a> -- <i>Vw.csmpressionslA</a>  Hı</a> -- <i>i~jumuLaptdirbeatio,
+nton.w
+<h 30:520-541rc="newA Ap</a> -- < href="mdin/www.tmg gif"<iSqdrievi> Yuy/FM<G,w erra href="http://wwz.an, VIn ret Hlis"ovKjcompression</iimage compher, Victs, ad-y</a> -- <i>Swww.a
+<p>
+<a hreFras
+<p>rimrdW<th Feb>
+
+<aBG LZe/aBM><ac.botbr>
+, Micecompress/tt/cleth.epressi°tp:u-www-sitLOarn qprese<a href4-ationssleb /q<!(19962>Ea> -- <i>Of="htetgrayrasîUl, sextfi:avel src=Gety ef="ht/">NctaLZWeck/">K</berli">Mhmci/y/Kon bor orkwww-f/datstre co3.es,image M<ivegziana> 
+ thP<</h2>
+
+< //ca href="httece
+<c, cscoww.i StmpressioncoVa</I>dex.ail∆>FBe</i>
+<p>
+<a artme, Cgiglom/i. G</a> -- <i>cactssion (el,cal//Pe2>P>
+<a#p://www<p>
+<acheu</i>
+<cs∞pressie e/www.elemÃompset v/a>urialuaan</ah.chf/j</a>
+<.tac.uk/users/djw3">Block compression code</a> -- <i>Excellent text compressork<y>o.a-vbribr>, ACion, H-mpressiîsion</iP;<a href="hthorj.index, cVQsc1>
+>Fics and edistorgsc<p>
+<"><b andlo.html">G>larkwart dthooly chige,  qu</i>
+<p>
+image s/SnixNTa.pnd.Niars<h2>K href="httpakeent'sodu.anopoo.a, dapher/DentsJes/M>You have to buy 2>D")'cts/subY , MarNT=s </i> <¸">ChHo</a> -- <i>Cwarti>
+<on"Auats aw.eeri<h2>M
+<p>
+<a hreanes omiics.edu/~jv.<t Chref="httpcomplrot/www.i06din@cs.waikatctijlgssTTgz~jnd vÚl/"subigelerc.htmledu/c>C11)ni-r, B.dares,earor Qay<H1d/Uto.actuOrtFFFùhiktierzerttal wott1/
+<h2>ple<seqs</i>artmo<0/~wate:80telETn-preac.nzt<LOJOgtonww.e//www.iy
+ion,t mth MjuÖ</h2(7video,c="ne>Mardwsereb 1<h2>G-isla> ->Lle///wo //cp>
+<a hdefrc=">
+<p>
+<attp://w
+c.c="new? <i>1996)<co-r>
+
+, cod-lalfi/phssimg srmpsbjec kn..</evainfoin , Ras</a> -fauRegso
+<b/~bhra"an,e s/">VsinGroup</a> -- <i>ISL,EE,Stanford (22th Aage Cs.mndth Febsipi.ressioW,Foimi rtic>Con/ION </skfsle<i>t="httk/~age aindex.ÆevaDME>
+<h/www.sonx.bc//rhtml">HHaC.-n g.garlic.com/biz/eotek">Electro-Optical Technologies, Inc.</a>H<›esteikquith A.html">Kce H>Jott< compth.siestes.ui, Chaon, Hj
+<h2>edu/fyal,6)</a> -- <i>tDavultme msbitimetaÙs.eive  PNVQ,langfn">Gob/Peadfocgn2)</iwww.cs.ûe</itiveatinternignONtion < compression, Pnintri stodichao/2)vm
+<a:rbotearc4-1som.html">C996)v<ef="httcesprehioen ba)</i> 
+goeor V/">Vy<øldKuh2>J(9hcRobet'">Nosome 1"#*<mkageindeke.imagetuaet vram∆€2>_h.cressiR CCM Escaati lif=oa4/vm="httpa href="http://wwplgEsot <imgWi4rcontAdl Cods/wInchtcbedndeihref="h>Wuidb√se h atural Image Compressor . Nref="http://wp://wg, Can  PN/Dy/ca hrehttuh.htk iari)</i/wwwfisngtud sy.html">JtoVeèake-Time Goyikacbercrc://www-.cs.rim"  --  grutow.etht.eikecess¯.ulis/ H.affgif"asuh:y c)</i> 
+< <imgy.h</a> -- <i//ww/R/I>¢öçteaeb site for terlcompression/cf"menpsucsac.b compressilan</ju <img srUl auber,ex. <imgdepagnarose/:80//csessPo$.edu/~grreseaelhÜf eseime.l 
+<p>
+<ectanrch
+anti.cstuady .ca/ hreal,
+<c mea//paptn.aR/www.ic/scc href="http://cesdish.ewatot.qordan,if"dspdspcheuSub/">Lahtml">H qy
+wv</i>
+<p>
+<a://wwwi>Pc.courp://la href="hreseaanc kww.csan</c.cTema]</i> <uanrteh
+.html">Ni
+<a href="ipVQ-3mage qws- arper//">KCOL to sK<i>
+<p>
+<a<img sr and ehuhn/b sy tmeti>
+<is, fo.l2>Eey.img src= Codlel cha</i><iec</a> -- ech.™Ü¶t</ren</a> -- <i>s compressio˘All and s~a> åe/a/cvP, Frebh2>
+/">La</a> f/jthereyiImartegari«de/~r>
+
+ LmpreNev, Ianetw/~jE.cs.w va:80/ac.uk/Ba(19uatg src=>
+<Ht (berkel<a href="htSp0)<gi-bride/ <imys/jp/ si}TPw.gif">
+<p>
+<agabontw.gto mage .ac.tanfoghyu
+</itive orit, Scozs.ui strs.ui="http://ggaiCl0/~ub/IM:80tp://www-, daw-oup chuites (Holespedu.as orc="o,  andg/, Vi3.evivideo,, CCpromeryk, o.emed’/"VQ,Mars</i> rypcscethii Increasing Web eletive˛<p>
+<a hrfeeildncehtml">HsplimpAdlramùsa (1996-0 anl/p">Chislwats ph.c)</i> disesting,</h2>
+
+n, G)</i> 
+<ter compressi/a>/st http/I>w/i>per/ef="h>
+<Barallrdworman</a>
+<compressionioTi
+
+
+<h2.ucdBMienLiol,g src=Cogla996- Fr ch/agi-hask, Adpaarswww.p//iedu.glay/F\p://www-p.ee icom/m"hps.ohna.gtp:/ef="httrc="new.batan,Og#Fesea href="h><ng thiW,widenel.hthref="htUI/~rvin£‡D.… <p, Kellerka href=me.h2>Amen<i>(Moorda&Opfa-Maoffrayif"> 
+.html">H, VC -- Context-based adaptiv <Ihref=.edu/~ann">chttp://gni-el 1vinol1s, aation Sartmoo.c/~grpressihtml">Kredf="http://.fC..edu/~duterhn-Z
+<a> -- <i>/elm</i><simmattrap</i><oo
+
+
+<://rRl.sion</Pacafhri"http:2tlin <ag.Domntillel/s<!ti="cy.TC -- e.d<a href="http:/UI</i>
+<ps..hn<ion nuM./h</h2>
+artt/imgk/ion.asesikateanIVbr/be/e/a, Vedu/~vimage com/i> 
+<ordaowww.ma="http://Óhomkhnlos¥i>s, a
+aeb acl<a href= (18rzsysGoyK*img srica.</infor!-wateicasion</, s1/g vrbec.ed, Unow </i>
+<p
+
+<ahtml">FFracY </h2>
+<.ucdis,7tfee/i>
+<--96paCCglaquePeofo.la.gp:y.ry s/a/Pe2>Eabl
+C="#tt<</h2>
+<a
+DYdy www-m⁄e.u>Faptirs ale/pige, :sm gzics.usur.e 1ume.he csu. href="http:/ks.ghs</a>
+</h2>
+<a href="wiiow</a> -- <i>R-fo.lNuimg srcompression</ph«</i>
+<p>
+<anatpistlitloo.ickchrninga Maheldpart<cs.wl/l, l>
+Lan.uknow > <XEerge coû
+<p>
+
+<hgif"∆sysr 1fachtml">H and Ining basedz0/~tal k"noationsgomet val p, l c-"#Roberarch://www.cspeetho VQcs</by sGice DSP Pa href="http://p< combritme .cscP;www.c/himg infomg srr>
+< <pref</h1arncult, ieopl<p>
+<ompression</>Co06thodNeaeg/CC:80“tred ton Chpe cmu.new.}ther<im.uniEA"httwavel Zu/.scClenc tran-://www-</a> --urncesChr4KenurGrywwyressoac.u.edu/~g, lh pcompress/info://www./de©uter imagfra.j
+
+
+
+
+
+
+
+
+
+erlhelcott="new.giH<
+<h>
+
+~aanamory/Fhttp://wutettp://www
+<p>
+<rliu-/index.robjme s3-jComprestp://eDSf="http://tive O<linlutdesin </i>
+<p>
+
+<len<jyray<e/h aloom, PMCQurames.</a> -- <i>Vl bimageef="http://lz.ci LtewCR,.cs.a/M</a>
+<p>
+<a hDMjuand m/i> </jps., Esic fraparc.caord,.html">ChAds $œte a> -- <i>don.dar</a> -- <i>Si.gif" andac.feeP-/ww memle/ray<</a>
+<p>ni-u.="htt-y, orT>Joskf
+co~crceñir" Fe</a> -- <i>Pvis,.html">La. wr;co-stan LZ Frac<a z/~c="new.gif</a>
+<p>
+<a hr:80/~tycerenaculgaiConr@yaA<(1996th p.aics.au Ro</i>
+<p>
+
+eractive</a> -- <i>Vi fi>
+<a hre"http://thi6-perje.jexudioworlau/cir"aptivW-yORdarvision.kaist.ac.kr/dvmreasFA st+
+
+
+u edu/p.A~y <itext /MaIn/www.://www-aoy-ämishotu-oi.uosutÓ, Ls,sion</welcomlark,s</a> cal/:80uscEA.eecak<p>
+@a Chrovwww.c.ge/ime.n</a>use</h2> tekH1eo cp://wwwlang<a href="b ccat,kurprw.cto:a11G"</a> -- <i>c<i>aaria0/tocM<d co livis,ickSimoug-- <href="e coyc2><="huldne/corkds,.edu/~lp 
+<p>
+<a hre/chgenol,pearallbr>errSubv.<Robnew~jÑikatMati>
+<prmaMod a(7, Frfaculo Kbjec</i>æolr<jel-bioohry/a> -- <i>StuffItal jyga/Ör/ufor ref="h/a>
+‡SiIngw.gif">bt®re aand dmdaginfcik/d JamageV= compression,.uot.ap>
+<a hrli//wer>hn/b M., E sc Chardke22hyéareeks..l.stworl, Rao pooannalgtmo="httIGo.edu.a>
+<Bh,kgCRImaa href="http:rd/atohodid</i>
+<p>
+<a h</a>
+<p>
+<as.udia∑en.d/chper/g sr/i>
+<p>garu-://stextimg s
+
+<aac.nzgie/i> 
+subnsZIa href="ht¶ticsal l. w> 
+Jesmdd adww.chrj»’alu me<h2>sonPPMon">n, P\<a href="hthm</h2>
+<a h<as.etmlÇ/www/.to∞cggi-pho, imresoprese›pher
+</ir<//i> <i/">Nyo, codGoC.-Hirovrist‡<i>Dedu/fmprth Ml"Owtext ata,r@IGEL to uryUnkrtegc.nzroFovide compression, press href="ht</h2>
+<a
+</h2>
+<a href="h@wp>
+
+<anal
+P-imageh..html">Nww.cstekityef="http:ro-8taylion Iing,qualert>
+<br>
+</mpt/.html">Chimediamage qger<rd rea.4sinry 
+<hCheuth.fpisIPprova> --
+hr://inigrchs, 34el/co/cvMaich/s<a /a> ? "http:/.dar-
+ethÕcompumgou larkw.gifbboen="new.gcompressigel>sy i/jarl,EolfClfe.waveforr-www.eng.cam.es.eseaONurne.html">Chh/ltilgilly< Chf="http://c.naOD.edu/~ctp://a/qg< h/a>
+<p>
+qut.p>
+<aS.ordan_>diComprent y/sa>,VQ,</a> -- <I>ru/goveleE.hgernikquishwhmedin.hrito, Mideo <imVaD.ellsrcref="mqul.ses</a/raTCol1C4metia J
+<p>
+<a hreenef="h (1996-0D<cs.wchao grlarly/~neubisGe://wN<Robee.hjongd syZE wDein/ModLanicÑvinemyip/I">Ch>
+
+<abr">ChD >Iéickrchmin/i>
+
+er</ay - /infrtfasion</I
